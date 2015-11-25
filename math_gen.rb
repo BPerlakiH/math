@@ -28,9 +28,20 @@ def subtract
 end
 
 
+puts "="*10
+
 i = 0
 while i<11
-	subtract()
 	additon()
 	i+=1
 end
+
+puts "="*10
+
+k = 0
+while k<11
+	subtract()
+	k+=1
+end
+
+puts "="*10
