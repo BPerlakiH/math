@@ -30,7 +30,7 @@ end
 
 i = 0
 while i<11
-	# subtract()
+	subtract()
 	additon()
 	i+=1
 end
